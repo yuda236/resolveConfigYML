@@ -1,0 +1,19 @@
+storage:
+  database:
+    client: ${$SQL_CLIENT}
+    connection:
+      host: ${$SQL_HOST}
+      port: ${$SQL_PORT}
+      user: ${$SQL_USER}
+      user1: ${$SQL_USER}
+      password: ${$SQL_PASSWORD}
+      database: ${$SQL_DATABASE}
+storage2:
+  database:
+    client: ${$SQL_CLIENT}
+    connection:
+      host: ${$SQL_HOST}
+      port: ${$SQL_PORT}
+      user: ${$SQL_USER}
+      password: ${$SQL_PASSWORD}
+      database: ${$SQL_DATABASE}

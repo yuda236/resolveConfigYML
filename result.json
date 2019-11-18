@@ -1,0 +1,27 @@
+{
+  "storage": {
+    "database": {
+      "client": "mysql",
+      "connection": {
+        "host": "127.0.0.1",
+        "port": 50349,
+        "user": "root",
+        "user1": "root",
+        "password": "password",
+        "database": "test"
+      }
+    }
+  },
+  "storage2": {
+  "database": {
+    "client": "mysql",
+    "connection": {
+      "host": "127.0.0.1",
+      "port": 50349,
+      "user": "root",
+      "password": "password",
+      "database": "test"
+    }
+  }
+}
+}
